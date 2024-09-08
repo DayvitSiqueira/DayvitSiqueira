@@ -3,7 +3,10 @@
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@devsiqueira.com)
 [![Linkedin: Dayvit Siqueira](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=http://linkedin.com/in/dayvit-siqueira-dev)](http://linkedin.com/in/dayvit-siqueira-dev)
 
-My name is Dayvit Siqueira. I'm a Software Engineer from Brazil. I’m primarily working with TypeScript, Deno, Node.js, and... Well, basically anything tech-related you put in front of me!
+My name is Dayvit Siqueira. I'm a Software Engineer from Brazil. I’m primarily working with TypeScript, Deno, Node.js, Angular, React, React Native, and... Well, basically anything tech-related you put in front of me!
+
+Over the years, I've had the privilege of working at startups and large companies such as Accenture, Natura, RD RaiaDrogasil...
+
 
 ### Quick bits
 
